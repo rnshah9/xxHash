@@ -1,6 +1,5 @@
-project: rnshah9/xxhash
+project: xxhash
 target: xxhsum
-tests: null
 
 cmds:
   - cmd: /repo/xxhsum @@
