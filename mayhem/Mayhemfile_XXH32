@@ -1,0 +1,6 @@
+project: xxhash
+target: xxh32
+
+cmds:
+  - cmd: /fuzz_XXH32
+    libfuzzer: true
