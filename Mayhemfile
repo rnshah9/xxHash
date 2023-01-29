@@ -1,0 +1,5 @@
+project: xxhash
+target: xxhsum
+
+cmds:
+  - cmd: /install/usr/local/bin/xxhsum @@
